@@ -15,3 +15,4 @@ while True:
         break
     factors.display_factors(int(n1), int(n2))
     factors.find_factor_pairs(int(n1), int(n2))
+    
